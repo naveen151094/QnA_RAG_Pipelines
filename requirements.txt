@@ -1,0 +1,5 @@
+langchain
+unstructured
+"unstructured[pdf]"
+opencv-python-headless
+sentence-transformers
